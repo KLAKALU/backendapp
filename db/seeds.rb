@@ -6,7 +6,5 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 Sured.create([
-  {content: "foo",time: "2007/12/16 Thu 17:21:37",idnomber: 1},
-  {content: "bar",time: "2008/12/16 Thu 17:21:37",idnomber: 2},
-  {content: "baz",time: "2009/12/16 Thu 17:21:37",idnomber: 3}
+  {content: "Hello,World!!!",time: "2007/12/16 Thu 17:21:37",idnomber: 1},
 ])
