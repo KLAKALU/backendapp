@@ -1,0 +1,2 @@
+class Sured < ApplicationRecord
+end

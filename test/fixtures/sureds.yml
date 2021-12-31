@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyText
+  time: MyString
+  like: 1
+  idnomber: 1
+  bool: 1
+
+two:
+  content: MyText
+  time: MyString
+  like: 1
+  idnomber: 1
+  bool: 1
