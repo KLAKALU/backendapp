@@ -16,7 +16,7 @@ class SuresController < ApplicationController
     end
   end
   def update
-    @sured = Sured.find(params[:idnomber])
+    @sured = Sured.find_by(idnomber: params[:idnomber])
     if params[:like] == 1
       @sured.increment!(:like, 1)
     else
